@@ -3,7 +3,7 @@
 > Asisten digital yang sabar dan ramah, dibuat khusus untuk membantu lansia Indonesia memahami dunia digital dengan tenang.
 
 <p align="center">
-  <img src="public/Lansia-Paham.png" width="120" />
+  <img src="public/Lansia-Paham.png" width="900" />
 </p>
 
 ---
