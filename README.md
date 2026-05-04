@@ -43,26 +43,6 @@ Aplikasi ini dibangun dengan mempertimbangkan kemudahan penggunaan untuk lansia:
 
 ---
 
-## 📸 Screenshots
-
-> **Catatan:** Tambahkan screenshot ke folder `docs/screenshots/` dengan nama file berikut:
-
-| Nama File | Halaman yang Di-screenshot |
-|---|---|
-| `banner.png` | Hero section halaman utama (full width) |
-| `home.png` | Halaman beranda lengkap |
-| `asisten.png` | Halaman Bantu Formulir dengan contoh percakapan |
-| `waspada.png` | Halaman Waspada Penipuan dengan risk meter muncul |
-| `risk-meter.png` | Close-up risk meter saat mendeteksi penipuan |
-| `mobile.png` | Tampilan mobile (gunakan DevTools → Toggle Device) |
-| `accessibility.png` | Accessibility bar aktif dengan teks diperbesar |
-
-### Cara Ambil Screenshot yang Baik untuk README:
-1. Buka app di browser (`npm run dev`)
-2. Gunakan **Chrome DevTools** → `Ctrl+Shift+I` → klik ikon HP untuk mobile view
-3. Untuk full page screenshot: `Ctrl+Shift+P` → ketik `screenshot` → pilih **"Capture full size screenshot"**
-4. Simpan di folder `docs/screenshots/`
-
 ---
 
 ## 🛠️ Tech Stack
