@@ -72,7 +72,7 @@ Aplikasi ini dibangun dengan mempertimbangkan kemudahan penggunaan untuk lansia:
 ### Prerequisites
 - Node.js v18+
 - npm atau yarn
-- API Key dari [SumoPod](https://sumopod.com)
+- API Key AI 
 
 ### 1. Clone repository
 ```bash
@@ -174,12 +174,6 @@ Lansia-Paham-v2/
 ## 🤝 Kontribusi
 
 Pull request sangat disambut! Untuk perubahan besar, buka issue terlebih dahulu untuk mendiskusikan apa yang ingin diubah.
-
----
-
-## 📄 Lisensi
-
-MIT License — bebas digunakan dan dimodifikasi.
 
 ---
 
